@@ -8,7 +8,7 @@ export const site = {
     "Halo Alphacsoft, saya tertarik untuk mendiskusikan proyek software.",
   email: "info@alphacsoft.com",
   address: "Jl. Cipto Mangunkusumo, Majidi, Lombok Timur, NTB 83619",
-  website: "https://alphacsoft.com",
+  website: "https://www.alphacsoft.com",
   ceo: "M. Nasrul Alawy",
   founded: 2016,
   social: {

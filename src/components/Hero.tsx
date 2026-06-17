@@ -25,10 +25,9 @@ export default function Hero() {
           </div>
 
           <h1 className="mt-5 text-4xl font-extrabold leading-[1.1] tracking-tight text-alpha-950 sm:text-5xl xl:text-6xl">
-            Solusi Digital{" "}
-            <span className="text-alpha-600">dari Lombok</span>{" "}
+            <span className="text-alpha-600">Alphacsoft</span> — Jasa Pembuatan Aplikasi &amp;{" "}
             <span className="relative inline-block">
-              untuk Dunia
+              Website Terpercaya
               <svg
                 className="absolute -bottom-2 left-0 w-full text-accent-400"
                 viewBox="0 0 200 10"
@@ -42,9 +41,9 @@ export default function Hero() {
           </h1>
 
           <p className="mt-6 max-w-xl text-base leading-relaxed text-alpha-800/80 sm:text-lg">
-            Alphacsoft menghadirkan custom software, aplikasi mobile, dan game development
-            berkualitas. Dari startup lokal hingga klien internasional — kami wujudkan ide
-            digital Anda menjadi produk nyata.
+            <strong>Alphacsoft</strong> — software house di Lombok Timur sejak 2016. Jasa{" "}
+            <strong>pembuatan aplikasi</strong>, <strong>pembuatan website</strong>, custom
+            software, dan game development untuk UMKM, pemerintahan, hingga klien internasional.
           </p>
 
           <div className="mt-8 flex flex-wrap items-center gap-4">

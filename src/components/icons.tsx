@@ -144,6 +144,12 @@ export const MessageCircle = (p: IconProps) => (
   </Svg>
 );
 
+export const ChevronDown = (p: IconProps) => (
+  <Svg {...p}>
+    <path d="m6 9 6 6 6-6" />
+  </Svg>
+);
+
 export const Check = (p: IconProps) => (
   <Svg {...p}>
     <path d="M20 6 9 17l-5-5" />

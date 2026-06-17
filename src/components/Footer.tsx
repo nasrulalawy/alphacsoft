@@ -8,11 +8,13 @@ const navLinks = [
   { href: "#portofolio", label: "Portofolio" },
   { href: "#tentang", label: "Tentang Kami" },
   { href: "#prestasi", label: "Prestasi" },
+  { href: "#faq", label: "FAQ" },
 ];
 
 const services = [
+  "Jasa Pembuatan Aplikasi",
+  "Jasa Pembuatan Website",
   "Custom Software",
-  "Aplikasi Mobile",
   "Game Development",
   "UI/UX Design",
   "Konsultasi IT",

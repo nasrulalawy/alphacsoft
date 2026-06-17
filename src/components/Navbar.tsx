@@ -7,6 +7,7 @@ const links = [
   { href: "#layanan", label: "Layanan" },
   { href: "#portofolio", label: "Portofolio" },
   { href: "#tentang", label: "Tentang" },
+  { href: "#faq", label: "FAQ" },
   { href: "#hubungi", label: "Hubungi" },
 ];
 

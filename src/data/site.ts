@@ -2,7 +2,7 @@ export const site = {
   name: "Alphacsoft",
   tagline: "Software House Lombok Timur",
   description:
-    "Alphacsoft — software house di Lombok Timur yang menghadirkan solusi custom software, aplikasi mobile, dan game development untuk klien lokal hingga internasional.",
+    "Alphacsoft — jasa pembuatan aplikasi terpercaya, pembuatan website profesional, custom software, dan game development di Lombok Timur, NTB sejak 2016.",
   whatsappNumber: "6281234567890",
   whatsappMessage:
     "Halo Alphacsoft, saya tertarik untuk mendiskusikan proyek software.",

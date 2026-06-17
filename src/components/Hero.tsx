@@ -40,7 +40,7 @@ export default function Hero() {
             </span>
           </h1>
 
-          <p className="mt-6 max-w-xl text-base leading-relaxed text-alpha-800/80 sm:text-lg">
+          <p className="mt-6 max-w-xl text-base leading-relaxed text-alpha-800 sm:text-lg">
             <strong>Alphacsoft</strong> — software house di Lombok Timur sejak 2016. Jasa{" "}
             <strong>pembuatan aplikasi</strong>, <strong>pembuatan website</strong>, custom
             software, dan game development untuk UMKM, pemerintahan, hingga klien internasional.
@@ -68,7 +68,7 @@ export default function Hero() {
               <div key={stat.label}>
                 <dt className="sr-only">{stat.label}</dt>
                 <dd className="text-2xl font-extrabold text-alpha-900 sm:text-3xl">{stat.value}</dd>
-                <dd className="mt-1 text-xs font-semibold uppercase tracking-wide text-alpha-700/60">
+                <dd className="mt-1 text-xs font-semibold uppercase tracking-wide text-alpha-700">
                   {stat.label}
                 </dd>
               </div>
@@ -107,7 +107,7 @@ export default function Hero() {
 alphacsoft.build(yourIdea);`}</code>
               </pre>
 
-              <div className="mt-4 flex items-center gap-2 text-xs text-accent-400">
+              <div className="mt-4 flex items-center gap-2 text-xs text-accent-300">
                 <span className="inline-block h-2 w-2 animate-pulse rounded-full bg-accent-400" />
                 Building your next project...
               </div>
@@ -119,7 +119,7 @@ alphacsoft.build(yourIdea);`}</code>
                   <ShieldCheck className="h-4 w-4" />
                 </span>
                 <div>
-                  <p className="text-[10px] font-bold uppercase tracking-wide text-alpha-700/60">
+                  <p className="text-[10px] font-bold uppercase tracking-wide text-alpha-700">
                     Rekor MURI
                   </p>
                   <p className="text-xs font-semibold text-alpha-900">Game Sitala</p>

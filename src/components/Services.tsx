@@ -23,7 +23,7 @@ export default function Services() {
           <h2 className="mt-3 text-3xl font-extrabold tracking-tight text-alpha-950 sm:text-4xl">
             Jasa Pembuatan Aplikasi, Website &amp; Software
           </h2>
-          <p className="mt-4 text-base leading-relaxed text-alpha-700/80">
+          <p className="mt-4 text-base leading-relaxed text-alpha-700">
             Layanan pengembangan digital terpercaya dari Alphacsoft — pembuatan aplikasi mobile,
             pembuatan website, custom software, dan game development oleh tim profesional di
             Lombok Timur.
@@ -41,7 +41,7 @@ export default function Services() {
                   </span>
                   <h3 className="mt-5 text-lg font-extrabold text-alpha-950">{service.title}</h3>
                   <p className="mt-1 text-xs font-semibold text-alpha-600">{service.seoTitle}</p>
-                  <p className="mt-2 text-sm leading-relaxed text-alpha-700/75">
+                  <p className="mt-2 text-sm leading-relaxed text-alpha-700">
                     {service.description}
                   </p>
                 </div>

@@ -9,7 +9,7 @@ export default function TechStack() {
 
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <Reveal className="mx-auto max-w-2xl text-center">
-          <p className="text-xs font-extrabold uppercase tracking-[0.3em] text-accent-400">
+          <p className="text-xs font-extrabold uppercase tracking-[0.3em] text-accent-300">
             Tech Stack
           </p>
           <h2 className="mt-3 text-3xl font-extrabold tracking-tight text-white sm:text-4xl">

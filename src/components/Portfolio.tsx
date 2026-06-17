@@ -16,7 +16,7 @@ export default function Portfolio() {
           <h2 className="mt-3 text-3xl font-extrabold tracking-tight text-alpha-950 sm:text-4xl">
             Portofolio Proyek
           </h2>
-          <p className="mt-4 text-base leading-relaxed text-alpha-700/80">
+          <p className="mt-4 text-base leading-relaxed text-alpha-700">
             Dari platform SaaS bisnis dan pesantren, game edukasi berprestasi, hingga aplikasi
             sosial — produk digital yang kami bangun dan kembangkan.
           </p>
@@ -60,7 +60,7 @@ export default function Portfolio() {
                     </div>
                   </div>
                   <div className="flex flex-1 flex-col p-6">
-                    <p className="flex-1 text-sm leading-relaxed text-alpha-700/80">
+                    <p className="flex-1 text-sm leading-relaxed text-alpha-700">
                       {item.description}
                     </p>
                     {item.highlight && (
@@ -68,7 +68,7 @@ export default function Portfolio() {
                         className={`mt-4 inline-flex w-fit items-center gap-1.5 rounded-full px-3 py-1 text-xs font-bold ${
                           item.url
                             ? "bg-alpha-100 text-alpha-700 group-hover:bg-alpha-600 group-hover:text-white"
-                            : "bg-accent-50 text-accent-700"
+                            : "bg-accent-50 text-accent-800"
                         }`}
                       >
                         {item.url && <ArrowUpRight className="h-3.5 w-3.5" />}

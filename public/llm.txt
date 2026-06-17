@@ -1,0 +1,47 @@
+# Alphacsoft
+
+> Alphacsoft adalah software house di Lombok Timur, Nusa Tenggara Barat, Indonesia, berdiri sejak 2016. Menyediakan jasa pembuatan aplikasi, pembuatan website, custom software, game development, dan konsultasi IT.
+
+PT. Alphacsoft Digital Indonesia mengembangkan Hisabia (akuntansi & POS), Fathara.id (manajemen pesantren), dan game Sitala (Rekor MURI). Divisi Alphac Studios adalah studio game pertama di Lombok. Bahasa: Indonesia. URL kanonikal: https://www.alphacsoft.com
+
+## Contact
+
+- [Email](mailto:info@alphacsoft.com): info@alphacsoft.com
+- [WhatsApp](https://wa.me/6281234567890): Konsultasi proyek gratis
+- [Website](https://www.alphacsoft.com): Situs resmi Alphacsoft
+- [GitHub](https://github.com/alalawy): Profil CEO M. Nasrul Alawy
+
+Alamat: Jl. Cipto Mangunkusumo, Majidi, Lombok Timur, NTB 83619, Indonesia. CEO: M. Nasrul Alawy.
+
+## Services
+
+- [Jasa Pembuatan Aplikasi Mobile](https://www.alphacsoft.com/#layanan): Android dan iOS dengan React Native, Flutter, Java, Kotlin
+- [Jasa Pembuatan Website](https://www.alphacsoft.com/#layanan): Company profile, landing page, e-commerce, portal bisnis
+- [Custom Software Development](https://www.alphacsoft.com/#layanan): ERP, dashboard, sistem manajemen, platform SaaS
+- [Game Development](https://www.alphacsoft.com/#layanan): Alphac Studios — game edukasi, adventure, simulasi, FPS
+- [UI/UX & Konsultasi IT](https://www.alphacsoft.com/#layanan): Desain antarmuka dan strategi digital
+
+## Key Information
+
+- [Beranda](https://www.alphacsoft.com/): Halaman utama Alphacsoft
+- [Portofolio](https://www.alphacsoft.com/#portofolio): Hisabia, Fathara.id, Sitala, Sampun, Hiyoko Adventures
+- [Tentang Kami](https://www.alphacsoft.com/#tentang): Sejarah dan tim sejak 2016
+- [Prestasi](https://www.alphacsoft.com/#prestasi): Rekor MURI, akuisisi Polda Kalsel, Bekraf Developer Day
+- [FAQ](https://www.alphacsoft.com/#faq): Pertanyaan umum layanan dan proyek
+- [Hubungi Kami](https://www.alphacsoft.com/#hubungi): Konsultasi via WhatsApp
+
+## What We Do Not Do
+
+- [Kebijakan Layanan](https://www.alphacsoft.com/#faq): Bukan penyedia hardware, reseller lisensi, jasa SEO utama, atau outsourcing tanpa komunikasi langsung dengan tim developer
+
+## AI Discovery Files
+
+- [robots.txt](https://www.alphacsoft.com/robots.txt): Petunjuk crawling search engine
+- [sitemap.xml](https://www.alphacsoft.com/sitemap.xml): Peta situs untuk pengindeksan
+- [llms-full.txt](https://www.alphacsoft.com/llms-full.txt): Informasi lengkap Alphacsoft untuk AI agents
+
+## Optional
+
+- [Hisabia](https://hisabia.biz.id): Platform akuntansi, POS, dan operasional bisnis
+- [Fathara.id](https://fathara.id): Sistem manajemen pondok pesantren terintegrasi
+- [GitHub Repositories](https://github.com/alalawy): Open source projects CEO Alphacsoft

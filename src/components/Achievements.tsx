@@ -15,7 +15,7 @@ export default function Achievements() {
           <h2 className="mt-3 text-3xl font-extrabold tracking-tight text-alpha-950 sm:text-4xl">
             Pencapaian & Milestone
           </h2>
-          <p className="mt-4 text-base leading-relaxed text-alpha-700/80">
+          <p className="mt-4 text-base leading-relaxed text-alpha-700">
             Dari startup kecil di Lombok hingga diakui nasional — setiap langkah membentuk
             Alphacsoft yang ada hari ini.
           </p>
@@ -44,7 +44,7 @@ export default function Achievements() {
                         {item.year}
                       </span>
                       <h3 className="mt-3 text-lg font-extrabold text-alpha-950">{item.title}</h3>
-                      <p className="mt-2 text-sm leading-relaxed text-alpha-700/75">
+                      <p className="mt-2 text-sm leading-relaxed text-alpha-700">
                         {item.description}
                       </p>
                     </div>

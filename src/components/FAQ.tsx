@@ -17,7 +17,7 @@ export default function FAQ() {
           <h2 className="mt-3 text-3xl font-extrabold tracking-tight text-alpha-950 sm:text-4xl">
             Pertanyaan Seputar Jasa Pembuatan Aplikasi &amp; Website
           </h2>
-          <p className="mt-4 text-base leading-relaxed text-alpha-700/80">
+          <p className="mt-4 text-base leading-relaxed text-alpha-700">
             Jawaban untuk pertanyaan umum tentang Alphacsoft sebagai software house terpercaya
             di Lombok Timur.
           </p>
@@ -51,7 +51,7 @@ export default function FAQ() {
                     </button>
                   </h3>
                   {isOpen && (
-                    <p className="px-6 pb-5 text-sm leading-relaxed text-alpha-700/80">
+                    <p className="px-6 pb-5 text-sm leading-relaxed text-alpha-700">
                       {item.answer}
                     </p>
                   )}

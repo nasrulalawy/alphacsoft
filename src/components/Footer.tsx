@@ -29,7 +29,7 @@ export default function Footer() {
             <Logo size="lg" />
             <div className="leading-tight">
               <p className="text-base font-extrabold text-white">{site.name}</p>
-              <p className="text-[11px] font-bold uppercase tracking-widest text-accent-400">
+              <p className="text-[11px] font-bold uppercase tracking-widest text-accent-300">
                 {site.tagline}
               </p>
             </div>
@@ -99,11 +99,11 @@ export default function Footer() {
         <div>
           <h3 className="text-sm font-extrabold uppercase tracking-wider text-white">Kontak</h3>
           <div className="mt-5 flex items-start gap-3">
-            <MapPin className="mt-0.5 h-5 w-5 shrink-0 text-accent-400" />
+            <MapPin className="mt-0.5 h-5 w-5 shrink-0 text-accent-300" />
             <p className="text-sm leading-relaxed text-alpha-300">{site.address}</p>
           </div>
           <div className="mt-4 flex items-center gap-3">
-            <Mail className="h-5 w-5 shrink-0 text-accent-400" />
+            <Mail className="h-5 w-5 shrink-0 text-accent-300" />
             <a
               href={`mailto:${site.email}`}
               className="text-sm font-medium text-alpha-300 transition-colors hover:text-accent-300"
@@ -115,11 +115,11 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-white/10">
-        <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-2 px-4 py-6 text-xs font-medium text-alpha-400 sm:flex-row sm:px-6 lg:px-8">
+        <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-2 px-4 py-6 text-xs font-medium text-alpha-300 sm:flex-row sm:px-6 lg:px-8">
           <p>© {new Date().getFullYear()} PT. Alphacsoft Digital Indonesia. Hak cipta dilindungi.</p>
           <p>
             Dibangun dengan dedikasi di{" "}
-            <span className="font-bold text-accent-400">Lombok Timur, NTB</span>
+            <span className="font-bold text-accent-300">Lombok Timur, NTB</span>
           </p>
         </div>
       </div>

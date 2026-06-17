@@ -31,7 +31,7 @@ export default function SeoContent() {
           <h2 className="text-3xl font-extrabold tracking-tight text-alpha-950 sm:text-4xl">
             Alphacsoft — Partner Digital Terpercaya untuk Bisnis Anda
           </h2>
-          <p className="mt-5 text-base leading-relaxed text-alpha-700/80">
+          <p className="mt-5 text-base leading-relaxed text-alpha-700">
             Sejak 2016, <strong>Alphacsoft</strong> membantu bisnis dan organisasi di Indonesia
             mewujudkan solusi digital. Dari <strong>pembuatan aplikasi</strong>,{" "}
             <strong>pembuatan website</strong>, custom software, hingga game development — semua
@@ -44,14 +44,14 @@ export default function SeoContent() {
             <Reveal key={block.title} delay={i * 80}>
               <article className="h-full rounded-2xl border border-alpha-100 bg-alpha-50 p-6">
                 <h3 className="text-lg font-extrabold text-alpha-950">{block.title}</h3>
-                <p className="mt-3 text-sm leading-relaxed text-alpha-700/80">{block.text}</p>
+                <p className="mt-3 text-sm leading-relaxed text-alpha-700">{block.text}</p>
               </article>
             </Reveal>
           ))}
         </div>
 
         <Reveal delay={200} className="mt-12 text-center">
-          <p className="text-sm text-alpha-700/70">
+          <p className="text-sm text-alpha-700">
             Cari <strong>jasa pembuatan aplikasi terpercaya</strong> atau{" "}
             <strong>jasa pembuatan website</strong> di Lombok, NTB, atau seluruh Indonesia?
           </p>

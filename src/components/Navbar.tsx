@@ -32,7 +32,7 @@ export default function Navbar() {
     >
       <div className="mx-auto flex h-18 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
         <a href="#beranda" className="flex items-center gap-3">
-          <Logo size="md" className="shadow-lg shadow-alpha-500/25" />
+          <Logo size="md" priority className="shadow-lg shadow-alpha-500/25" />
           <span className="leading-tight">
             <span className="block text-sm font-extrabold tracking-tight text-alpha-950 sm:text-base">
               Alphacsoft

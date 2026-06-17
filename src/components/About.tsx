@@ -25,13 +25,13 @@ export default function About() {
             <h2 className="mt-3 text-3xl font-extrabold tracking-tight text-alpha-950 sm:text-4xl">
               Solusi Digital dari Lombok untuk Indonesia & Dunia
             </h2>
-            <p className="mt-5 text-base leading-relaxed text-alpha-700/80">
+            <p className="mt-5 text-base leading-relaxed text-alpha-700">
               Alphacsoft didirikan pada tahun {site.founded} di Lombok Timur oleh tiga lulusan
               Teknik Universitas Hamzanwadi Pancor. Berawal dari passion coding dan game
               development, kini kami melayani klien dari berbagai sektor — pemerintahan, pendidikan,
               hingga enterprise internasional.
             </p>
-            <p className="mt-4 text-base leading-relaxed text-alpha-700/80">
+            <p className="mt-4 text-base leading-relaxed text-alpha-700">
               Di bawah kepemimpinan {site.ceo}, Alphacsoft terus berinovasi menghadirkan produk
               digital yang tidak hanya fungsional, tetapi juga berdampak — seperti game edukasi
               Sitala yang diakuisisi Polda Kalsel dan meraih rekor MURI.
@@ -68,7 +68,7 @@ export default function About() {
                 <p className="mt-2 text-lg font-extrabold text-alpha-950">
                   Divisi Game Development
                 </p>
-                <p className="mt-2 text-sm leading-relaxed text-alpha-700/75">
+                <p className="mt-2 text-sm leading-relaxed text-alpha-700">
                   Studio game pertama di Lombok. Mengembangkan game edukasi, adventure, simulasi,
                   hingga FPS — menghadirkan pengalaman gaming berkualitas dari Nusa Tenggara Barat.
                 </p>

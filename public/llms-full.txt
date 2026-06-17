@@ -1,0 +1,33 @@
+# Alphacsoft
+
+> Alphacsoft adalah software house di Lombok Timur, NTB, Indonesia, berdiri sejak 2016. Menyediakan jasa pembuatan aplikasi, pembuatan website, custom software, game development, dan konsultasi IT.
+
+## About
+
+Alphacsoft didirikan oleh tiga lulusan Teknik Universitas Hamzanwadi Pancor. CEO: M. Nasrul Alawy. Melayani klien di Indonesia dan internasional termasuk Singapura.
+
+## Technology Stack
+
+- [Tech Stack](https://www.alphacsoft.com/#layanan): React.js, TypeScript, Python, Golang, Java, Kotlin, C#, Flutter, Node.js, PostgreSQL, Docker
+
+## Portfolio
+
+- [Hisabia](https://hisabia.biz.id): Platform SaaS akuntansi & POS untuk retail, F&B, grosir, UMKM
+- [Fathara.id](https://fathara.id): Platform SaaS manajemen pondok pesantren 12+ modul
+- [Sitala](https://www.alphacsoft.com/#portofolio): Game edukasi lalu lintas, Rekor MURI 2019, diakuisisi Polda Kalsel
+- [Sampun](https://www.alphacsoft.com/#portofolio): Aplikasi pengelolaan sampah, juara Dicoding Challenge
+- [Hiyoko Adventures](https://www.alphacsoft.com/#portofolio): Game petualangan edukatif anak-anak
+
+## Contact
+
+- [Email](mailto:info@alphacsoft.com): info@alphacsoft.com
+- [WhatsApp](https://wa.me/6281234567890): Konsultasi proyek gratis
+- [Website](https://www.alphacsoft.com): Situs resmi Alphacsoft
+
+Alamat: Jl. Cipto Mangunkusumo, Majidi, Lombok Timur, NTB 83619, Indonesia.
+
+## AI Discovery Files
+
+- [llms.txt](https://www.alphacsoft.com/llms.txt): Ringkasan utama untuk AI agents
+- [robots.txt](https://www.alphacsoft.com/robots.txt): Petunjuk crawling
+- [sitemap.xml](https://www.alphacsoft.com/sitemap.xml): Peta situs

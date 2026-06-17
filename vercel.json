@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/((?!assets/|images/|favicon\\.png|favicon\\.svg|robots\\.txt|sitemap\\.xml|icons\\.svg).*)",
+      "source": "/((?!assets/|images/|favicon\\.png|favicon\\.svg|robots\\.txt|sitemap\\.xml|llms\\.txt|llms-full\\.txt|llm\\.txt|icons\\.svg).*)",
       "destination": "/index.html"
     }
   ],
@@ -12,6 +12,14 @@
     },
     {
       "source": "/robots.txt",
+      "headers": [{ "key": "Content-Type", "value": "text/plain; charset=utf-8" }]
+    },
+    {
+      "source": "/llms.txt",
+      "headers": [{ "key": "Content-Type", "value": "text/plain; charset=utf-8" }]
+    },
+    {
+      "source": "/llm.txt",
       "headers": [{ "key": "Content-Type", "value": "text/plain; charset=utf-8" }]
     }
   ]

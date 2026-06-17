@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.alphacsoft.com/sitemap.xml
+
+# AI Discovery
+# llms.txt: https://www.alphacsoft.com/llms.txt

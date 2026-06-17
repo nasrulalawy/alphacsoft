@@ -16,7 +16,7 @@ export default function CTA() {
             aria-hidden="true"
           />
           <div className="relative">
-            <p className="text-xs font-extrabold uppercase tracking-[0.3em] text-accent-400">
+            <p className="text-xs font-extrabold uppercase tracking-[0.3em] text-accent-300">
               Mulai Proyek Anda
             </p>
             <h2 className="mx-auto mt-4 max-w-2xl text-3xl font-extrabold tracking-tight text-white sm:text-4xl lg:text-5xl">
